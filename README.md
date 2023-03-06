@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm yoa0uch_</h1>
 <h3 align="center">A kid that loves six nine</h3>
 <img align="right" alt="Coding" width="400" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/04/genshin-impact-tsubaki.jpg">
+
 - 🔭 I’m currently working on **Home as a spoilt boy**
 
 - 🌱 I’m currently learning **C++, Java, GUI**
